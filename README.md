@@ -21,7 +21,7 @@ The research uses a controlled experimental design where students observe both s
 - **Focus**: Objective accuracy measurement and observation pattern analysis
 
 ### Phase 2: Live Peer Observation  
-- **Methodology**: Students observed peers troubleshooting the same circuit in real-time
+- **Methodology**: Students observed peers troubleshooting one of two purposely broken circuts in real-time
 - **Data**: Live observation of various troubleshooting approaches to the same problem
 - **Focus**: Peer observation dynamics and troubleshooting effectiveness patterns
 
