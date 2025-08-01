@@ -152,17 +152,6 @@ Each analysis directory contains:
 - `README.md` - Detailed analysis description and interpretation
 - `code.py` - Complete Python implementation (where available)
 
-## Research Team
-
-- **Principal Investigator**: Professor Caroline (UVA ECE Department)
-- **Data Analysis**: Advanced troubleshooting behavior analysis system
-- **Student Participants**: ECE and Capstone program students
-
-## Citation
-
-If you use this research or data, please cite:
-*UVA ECE Troubleshooting Research: Student Observation Skills Analysis* (2025)
-
 ---
 
 *This repository represents a comprehensive analysis of engineering student observation and troubleshooting skills, providing valuable insights for engineering education research and curriculum development.*
