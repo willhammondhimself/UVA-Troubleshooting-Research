@@ -25,23 +25,6 @@ The research uses a controlled experimental design where students observe both s
 - **Data**: Live observation of various troubleshooting approaches to the same problem
 - **Focus**: Peer observation dynamics and troubleshooting effectiveness patterns
 
-## Key Research Findings
-
-### Observation Accuracy Patterns
-- **Over-Observation Bias**: 58% of students reported seeing more actions than actually occurred
-- **Strategy Over-Attribution**: Students tend to see more strategic thinking than experts recognize
-- **Systematic Differences**: Most students (64%) show moderate differences from expert observations
-
-### Troubleshooting Effectiveness Insights
-- **Quality over Quantity**: Successful troubleshooters used fewer actions per step (1.63 vs 1.88)
-- **Hypothesis-Driven Success**: 95% of successful students formed clear hypotheses before modifications
-- **Sequential Patterns**: Students follow consistent "theory-first, measurement-last" approaches
-
-### Temporal and Co-occurrence Patterns
-- **Action Relationships**: Certain actions consistently co-occur in troubleshooting steps
-- **Strategy Sequences**: Advanced temporal analysis reveals strategy progression patterns
-- **Rebuild Strategy**: Always used as final step, indicating last-resort approach
-
 ## Repository Structure
 
 ### [Phase 1 Analyses](./Phase_1/)
