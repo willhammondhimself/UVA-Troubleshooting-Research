@@ -31,9 +31,9 @@ The research uses a controlled experimental design where students observe both s
 Standardized video observation analysis with expert ground truth comparison.
 
 #### Co-occurrence Analyses
-- **[Action Temporal Co-occurrence](./Phase_1/Action_Temporal_Cooccurrence/)** - Actions occurring together in same step
+- ✅ **[Action Temporal Co-occurrence](./Phase_1/Action_Temporal_Cooccurrence/)** - Actions occurring together in same step
 - **[Action Non-Temporal Co-occurrence](./Phase_1/Action_NonTemporal_Cooccurrence/)** - Actions used by same students
-- **[Strategies vs Actions Temporal](./Phase_1/Strategies_vs_Actions_Temporal/)** - Strategy-action relationships in same step
+- ✅ **[Strategies vs Actions Temporal](./Phase_1/Strategies_vs_Actions_Temporal/)** - Strategy-action relationships in same step
 - **[Strategies Temporal Co-occurrence](./Phase_1/Strategies_Temporal_Cooccurrence/)** - Strategies occurring together in same step  
 - **[Strategies Non-Temporal Co-occurrence](./Phase_1/Strategies_NonTemporal_Cooccurrence/)** - Strategies used by same students
 
@@ -41,13 +41,13 @@ Standardized video observation analysis with expert ground truth comparison.
 - **[Student Distribution vs Expert](./Phase_1/Student_Distribution_vs_Expert/)** - Quantitative observation differences
 - **[Comprehensive Difference Index](./Phase_1/Comprehensive_Difference_Index/)** - Multi-dimensional accuracy assessment
 - **[Too Many Strategies Noticed](./Phase_1/Too_Many_Strategies_Noticed/)** - Strategy over-attribution patterns
-- **[Over/Under Observed Analysis](./Phase_1/Over_Under_Observed_Analysis/)** - Specific behavior observation patterns
+- ✅ **[Over/Under Observed Analysis](./Phase_1/Over_Under_Observed_Analysis/)** - Specific behavior observation patterns
 
 ### [Phase 2 Analyses](./Phase_2/)
 Live peer observation and troubleshooting effectiveness analysis.
 
 - **[Success Patterns Finding 1](./Phase_2/Success_Patterns_Finding_1/)** - Action efficiency and success correlation
-- **[Troubleshooting Approaches Finding 2](./Phase_2/Troubleshooting_Approaches_Finding_2/)** - Sequential troubleshooting patterns
+- ✅ **[Troubleshooting Approaches Finding 2](./Phase_2/Troubleshooting_Approaches_Finding_2/)** - Sequential troubleshooting patterns
 - **[Action Effectiveness Finding 3](./Phase_2/Action_Effectiveness_Finding_3/)** - Hypothesis-driven repair effectiveness
 - **[Focus Types Qualitative 2](./Phase_2/Focus_Types_Qualitative_2/)** - Troubleshooting attention patterns
 
@@ -66,8 +66,8 @@ Updated versions of Phase 1 analyses with refined methodologies.
 
 - **[Action Temporal Co-occurrence (Updated)](./Additional_Analyses/Continued_Results/Action_Temporal_Cooccurrence/)**
 - **[Action Non-Temporal Co-occurrence (Updated)](./Additional_Analyses/Continued_Results/Action_NonTemporal_Cooccurrence/)**
-- **[Over/Under Observed Analysis (Updated)](./Additional_Analyses/Continued_Results/Over_Under_Observed_Analysis/)**
-- **[Strategies vs Actions Temporal (Updated)](./Additional_Analyses/Continued_Results/Strategies_vs_Actions_Temporal/)**
+- ✅ **[Over/Under Observed Analysis (Updated)](./Additional_Analyses/Continued_Results/Over_Under_Observed_Analysis/)**
+- ✅ **[Strategies vs Actions Temporal (Updated)](./Additional_Analyses/Continued_Results/Strategies_vs_Actions_Temporal/)**
 - **[Strategies Non-Temporal Co-occurrence (Updated)](./Additional_Analyses/Continued_Results/Strategies_NonTemporal_Cooccurrence/)**
 - **[Strategies Temporal Co-occurrence (Updated)](./Additional_Analyses/Continued_Results/Strategies_Temporal_Cooccurrence/)**
 
